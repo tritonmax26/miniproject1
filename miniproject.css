@@ -1,0 +1,50 @@
+.mainpage {
+    color: white;
+}
+
+.home {
+    padding-block: 2rem;
+    margin: auto;  
+}
+
+#mainpicture {
+    max-width: 700px;
+    max-height: 100%;
+}
+
+#mainabout {
+    max-width: 500px;
+    max-height: 100%;
+}
+
+#maintestimonial {
+    max-width: 400px;
+    max-height: 100%;
+}
+img {
+    box-shadow: 10px 10px 20px;
+}
+
+button:hover{
+    box-shadow: 0 0 50px red;
+}
+
+body {
+   background: url(./Pictures/pexels-henry-&-co-1939485.jpg);   
+   background-repeat: no-repeat;
+   background-size: auto;      
+}
+
+.about {
+    padding-block: 2rem;
+    margin: auto;    
+}
+
+.testimonials {
+    padding-block: 4rem;
+    margin: auto;
+}
+
+.footer>nav>a{
+    text-decoration: none;
+}
