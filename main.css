@@ -1,3 +1,7 @@
+body {
+    background-color: #353030;
+}
+
 .carousel .carousel-item {
    max-height:550px;
 }
@@ -5,10 +9,6 @@
 .carousel-item img {
     object-fit:contain;
     max-height:550px;
-}
-
-body {
-    background-color: #353030;
 }
 
 .footer>nav>a{
